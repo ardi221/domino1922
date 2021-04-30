@@ -209,4 +209,3 @@ gg.editAll("5000000", gg.TYPE_DWORD)
 gg.processResume()
 gg.refineNumber("50000", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
 gg.processResume()
- commit 8e3b261efdee8839a1ad03bed1caa6a43552acc5
